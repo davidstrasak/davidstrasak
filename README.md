@@ -5,10 +5,6 @@
 	</tr>
 </table>
 
-<div class="container">
-  <img src="/systemancer.svg" alt="systemancer logo" width="400">
-  <p>Hi stranger, I'm David</p>
-</div>
 
 
 
