@@ -1,16 +1,14 @@
-<div style="display:flex; flex-direction: column;">
-<picture>
-  <img src="/metrics.classic.svg" alt="Metrics">
-</picture>
-
-<picture>
-  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics">
-</picture>
-
-<picture>
-  <img src="/metrics.plugin.achievements.compact.svg" alt="Facts">
-</picture>
-</div>
+<table>
+  <tr>
+    <td><img src="/metrics.classic.svg" alt="Metrics"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics.plugin.habits.facts.svg" alt="Metrics"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics.plugin.achievements.compact.svg" alt="Facts"></td>
+  </tr>
+</table>
 
 
 
