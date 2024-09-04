@@ -1,5 +1,5 @@
 
-<img src="/systemancer.svg" align="center">
+<img src="/systemancer.svg" align="center" width="200">
 <h2 align="center">Hi stranger, I'm David</h1>
 <h3 align="center">I am an avid embedded systems and microcontroller enthusiast who's currently a web development intern </h3>
 
