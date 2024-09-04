@@ -1,8 +1,7 @@
-<p align="center" style="float:right">
-	<img src="/systemancer.svg" alt="systemancer logo" width="400" >
-</p>
-
-Hi stranger, I'm David
+<div class="container">
+  <img src="/systemancer.svg" alt="systemancer logo" width="400">
+  <p>Hi stranger, I'm David</p>
+</div>
 
 
 
@@ -19,6 +18,12 @@ Hi stranger, I'm David
   </tr>
 </table>
 
+<style>
+	.container {
+  display: flex;
+  justify-content: flex-end;
+}
+</style>
 
 
 <!--
