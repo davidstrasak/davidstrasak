@@ -21,7 +21,10 @@
   </tr>
 </table>
 
-
+<style>
+	table{border-collapse:collapse;}
+	td{border:none;}
+</style>
 
 <!--
 **davidstrasak/davidstrasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
