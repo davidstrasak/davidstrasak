@@ -1,6 +1,6 @@
-<picture>
-	<img src="/systemancer.svg" align="center">
-</picture>
+<p align="center">
+	<img src="/systemancer.svg" alt="systemancer logo" width="400">
+</p>
 <h1>
 Hi stranger, I'm David
 </h1>
