@@ -22,8 +22,13 @@
 </table>
 
 <style>
-	table{border-collapse:collapse;}
-	td{border:none;}
+	table {
+	  border-collapse: collapse;
+	}
+	
+	td {
+	  border: none;
+	}
 </style>
 
 <!--
