@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="/systemancer.svg" alt="systemancer logo" width="400">
+	<img src="/systemancer.svg" alt="systemancer logo" width="400" float="right">
 </p>
 <h1>
 Hi stranger, I'm David
