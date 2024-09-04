@@ -1,7 +1,7 @@
 <table>
 	<tr>
 		<td><h1>Hi stranger, I'm David</h1></td>
-		<td><img src="/systemancer.svg" alt="systemancer" width="400"></td>
+		<td><img src="/systemancer.svg" alt="systemancer" width="200"></td>
 	</tr>
 </table>
 
