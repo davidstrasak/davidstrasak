@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics"></p>
 
 <picture>
   <img src="/metrics.plugin.habits.facts.svg" alt="Metrics">
