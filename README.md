@@ -1,3 +1,4 @@
+<div style="display:flex; flex-direction: column;">
 <picture>
   <img src="/metrics.classic.svg" alt="Metrics">
 </picture>
@@ -9,6 +10,7 @@
 <picture>
   <img src="/metrics.plugin.achievements.compact.svg" alt="Facts">
 </picture>
+</div>
 
 
 
