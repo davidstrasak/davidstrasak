@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+![Metrics](/github-metrics.svg)
+
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
+
+<picture>
+  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics">
+</picture>
+
+<picture>
+  <img src="/metrics.plugin.achievements.compact.svg" alt="Facts">
+</picture>
+
+
+
 <!--
 **davidstrasak/davidstrasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
