@@ -21,6 +21,7 @@
 <style>
 	.container {
   display: flex;
+flex-direction: row;
   justify-content: flex-end;
 }
 </style>
