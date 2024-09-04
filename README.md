@@ -1,4 +1,6 @@
-<p align="center"><img src="/metrics.classic.svg" alt="Metrics"></p>
+<picture>
+  <img src="/metrics.classic.svg" alt="Metrics">
+</picture>
 
 <picture>
   <img src="/metrics.plugin.habits.facts.svg" alt="Metrics">
