@@ -1,3 +1,10 @@
+<table>
+	<tr>
+		<td><h1>Hi stranger, I'm David</h1></td>
+		<td><img src="/systemancer.svg" alt="systemancer" width="400"></td>
+	</tr>
+</table>
+
 <div class="container">
   <img src="/systemancer.svg" alt="systemancer logo" width="400">
   <p>Hi stranger, I'm David</p>
@@ -18,13 +25,6 @@
   </tr>
 </table>
 
-<style>
-	.container {
-  display: flex;
-flex-direction: row;
-  justify-content: flex-end;
-}
-</style>
 
 
 <!--
