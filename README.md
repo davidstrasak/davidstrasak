@@ -31,12 +31,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/> 
 </p>
 
-
-<h3 align="center">My Activity</h3>
-<img align="right" width="390" alt="🦑" src="./metrics.plugin.habits.facts.svg">
-<img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
-<img align="left" width="390" alt="🦑" src="./metrics.plugin.achievements.compact.svg">
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davidstrasak&theme=tokyonight&show_icons=true)
 
 <!--
 **davidstrasak/davidstrasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
