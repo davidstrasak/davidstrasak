@@ -1,13 +1,13 @@
 
 <p align="center"><img src="/systemancer.svg" width="200"></p>
 <h2 align="center">Hi stranger, I'm David</h1>
-<h3 align="center">I am an avid embedded systems and microcontroller enthusiast who's currently a web development intern </h3>
+<h3 align="center">I am an avid embedded systems and microcontroller enthusiast who's currently looking for an internship in electronics design </h3>
 
 <p>I love spending my programming time:</p>
 <ul>
-	<li>Developing apps to be more effective in my hobbies</li>
-	<li>Creating and thinking about arduino projects</li>
-	<li>Learning more IT skills</li>
+	<li>Tinkering with electronics and designing arduino circuits for problems I have.</li>
+	<li>Developing apps to be more effective in my hobbies.</li>
+	<li>Learning new skills all the time.</li>
 </ul>
 
 <h3 align="center">I'm already working with and learning the following technologies</h3>
