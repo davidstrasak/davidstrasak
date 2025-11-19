@@ -13,10 +13,6 @@
 
 <hr/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davidstrasak&theme=tokyonight&show_icons=true)
-
-<hr/>
-
 <h3><ins>I'm already working with and learning the following technologies:</ins></h3>
 <h4>Embedded systems:</h4>
 <div>
@@ -49,6 +45,10 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/> 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40"/> 
 </div>
+
+<hr/>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davidstrasak&theme=tokyonight&show_icons=true)
 
 <!--
 **davidstrasak/davidstrasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
